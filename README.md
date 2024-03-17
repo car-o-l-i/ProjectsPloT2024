@@ -18,9 +18,14 @@ El objetivo de este proyecto es desarrollar un sistema de IoT llamado "Rebeca co
 **Prototipo**
 
 *Dibujo del prototipo*
-![](images/rebecacc.png)
+![](dibujp.png)
 
-
-
-*Circuito en wotwki*
+  *Circuito en wotwki*
 ![image](https://github.com/car-o-l-i/ProjectsPloT2024/assets/143035138/da938015-68d5-4610-9b57-c2761a0c3b19)# ProjectsPloT2024
+
+*Resultado*
+![](p4.jpg)
+
+ *video*
+[Reproducir video](videos/video.mp4)
+
