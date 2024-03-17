@@ -5,12 +5,12 @@
 - Juan Diego Juarez Cruz
 
 **Objetivo General:**
-Rellenar con el objetivo general del proyecto.
+El objetivo de este proyecto es desarrollar un sistema de IoT llamado "Rebeca con cántaro". Este sistema estará basado en el uso de componentes como el ESP32, LEDs RGB, buzzer, servo motor, y materiales para la figura de Rebeca. La finalidad principal es crear un prototipo funcional que pueda ilustrar un escenario realista de interacción entre dispositivos IoT y sensores, utilizando Bluetooth como protocolo de comunicación inalámbrica de corto alcance.
 
 **Tabla de Software Utilizado:**
 
-| ID | Software         | Versión | Tipo      |
-|----|------------------|---------|-----------|
-| 1  | Nombre del software 1 | 1.0     | Tipo A    |
-| 2  | Nombre del software 2 | 2.5     | Tipo B    |
-| 3  | Nombre del software 3 | 3.2     | Tipo C    |
+| Nombre del Software        | Versión | Tipo             |
+|----------------------------|---------|------------------|
+| Visual Studio Code         | 1.82.2  | Editor de código |
+| Thonny                     | 4.1.4   | IDE              |
+| PlatformIO                 | 3.3.3   | Plataforma de desarrollo de código abierto |
