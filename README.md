@@ -1,9 +1,9 @@
 # ProjectsPloT2024
 
 **Integrantes:**
-- Carol Vanessa Gallegos Martinez
+- Carol Vanessa Gallegos Martínez
 - Juan Diego Juarez Cruz
-- Josue Omar Nuñes Godinez
+- Josúe Omar Núñez Godínez
 
 **Objetivo General:**
 El objetivo de este proyecto es desarrollar un sistema de IoT llamado "Rebeca con cántaro". Este sistema estará basado en el uso de componentes como el ESP32, LEDs RGB, buzzer, servo motor, y materiales para la figura de Rebeca. La finalidad principal es crear un prototipo funcional que pueda ilustrar un escenario realista de interacción entre dispositivos IoT y sensores, utilizando Bluetooth como protocolo de comunicación inalámbrica de corto alcance.
