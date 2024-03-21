@@ -26,7 +26,9 @@ El objetivo de este proyecto es desarrollar un sistema de IoT llamado "Rebeca co
 *Resultado*
 
 ![](p4.jpg)
-![](WhatsApp Image 2024-03-19 at 8.15.54 PM.jpeg)
+![](mona.jpeg)
+
+
 
  *video*
 [Reproducir video](videos/video.mp4)
